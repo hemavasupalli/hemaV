@@ -9,7 +9,6 @@
 - 7+ years of experience in Front-End Development
 - React.js, TypeScript, JavaScript Expert
 - Expanding into Full-Stack Development
-- Canadian Permanent Resident
 
 ## 🚀 Tech Stack
 
@@ -20,5 +19,5 @@ ElasticSearch | Kibana | ELK
 
 ## 📫 Connect With Me
 
-- LinkedIn: Your LinkedIn URL
-- Email: Your Email
+- LinkedIn: https://www.linkedin.com/in/hemavasupalli12/
+- Email: hemavasupalli12@gmail.com
